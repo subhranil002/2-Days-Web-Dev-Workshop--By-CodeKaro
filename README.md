@@ -1,5 +1,5 @@
 
-#1st Day - Food Ordering Website
+# 1st Day - Food Ordering Website
 
 <b>It is a very simple landing page or ordering page made with 
 "Box" & "Flex" model.</b>
@@ -39,7 +39,7 @@ To Start Contributing ...
  [MIT](https://choosealicense.com/licenses/mit/)
 
 
-#2nd Day - Currency Converter Website
+# 2nd Day - Currency Converter Website
 
 <b>It is a very simple landing page where you can easily convert USD To INR.</b>
 
