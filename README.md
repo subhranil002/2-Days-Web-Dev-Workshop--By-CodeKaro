@@ -1,5 +1,5 @@
 
-# 1st Day - Food Ordering Website
+#1st Day - Food Ordering Website
 
 <b>It is a very simple landing page or ordering page made with 
 "Box" & "Flex" model.</b>
@@ -17,7 +17,7 @@
 
 ## Demo
 
-[CLICK HERE](https://food-ordering-landing-page.netlify.app)
+ [CLICK HERE](https://food-ordering-landing-page.netlify.app)
 
 
 ## Author
@@ -36,10 +36,10 @@ To Start Contributing ...
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+ [MIT](https://choosealicense.com/licenses/mit/)
 
 
-# 2nd Day - Currency Converter Website
+#2nd Day - Currency Converter Website
 
 <b>It is a very simple landing page where you can easily convert USD To INR.</b>
 
@@ -58,7 +58,7 @@ To Start Contributing ...
 
 ## Demo
 
-[CLICK HERE](https://usd-to-inr-converter.netlify.app/)
+ [CLICK HERE](https://usd-to-inr-converter.netlify.app/)
 
 
 ## Author
@@ -77,9 +77,9 @@ To Start Contributing ...
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+ [MIT](https://choosealicense.com/licenses/mit/)
 
-## CodeKaro - Certificate of Participation
+##CodeKaro - Certificate of Participation
 
 <b>[Link To Verify](https://codekaro.in/workshop-certificate/c4b2c012de442d18)</b>
 
