@@ -13,8 +13,7 @@
 
 ## Screenshots
 
-![App Screenshot](Screanshots/Capture 1.PNG)
-
+![Capture 1](https://user-images.githubusercontent.com/106914208/210617608-db3ab4d9-ec8c-4fae-bb01-1907dd1f2599.PNG)
 
 ## Demo
 
@@ -55,8 +54,7 @@ To Start Contributing ...
 
 ## Screenshots
 
-![App Screenshot](Screanshots/Capture 2.PNG)
-
+![Capture 2](https://user-images.githubusercontent.com/106914208/210617714-062fdf61-f36d-46f4-a571-8c3cc10cd9d7.PNG)
 
 ## Demo
 
