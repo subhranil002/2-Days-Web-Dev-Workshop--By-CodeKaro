@@ -79,7 +79,7 @@ To Start Contributing ...
 
  [MIT](https://choosealicense.com/licenses/mit/)
 
-##CodeKaro - Certificate of Participation
+## CodeKaro - Certificate of Participation
 
 <b>[Link To Verify](https://codekaro.in/workshop-certificate/c4b2c012de442d18)</b>
 
